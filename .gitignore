@@ -1,1 +1,6 @@
 /.vs
+MvcBasic/bin/
+MvcBasic/obj/
+# SQL Server files
+*.mdf
+*.ldf
